@@ -4,8 +4,24 @@
     <e p="C:\Users\haskk\.Rider2019.1\config\scratches" t="IncludeRecursive" />
     <e p="C:\Users\haskk\.Rider2019.1\system\extResources" t="IncludeRecursive" />
     <e p="C:\Users\haskk\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_HoTR.566515826.00" t="ExcludeRecursive" />
-    <e p="D:\Code\GitRepos\HoTR" t="IncludeFlat">
+    <e p="D:\Code\GitRepos\HoTR" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Terrain Hexes" t="Include">
+          <e p="Example Scene" t="Include">
+            <e p="BasicHexArranger.cs" t="Include" />
+            <e p="example_scene_readme.txt" t="Include" />
+          </e>
+          <e p="readme.txt" t="Include" />
+          <e p="Samples" t="Include">
+            <e p="samples readme.txt" t="Include" />
+          </e>
+        </e>
+      </e>
       <e p="HoTR.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

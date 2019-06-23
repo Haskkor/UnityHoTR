@@ -3,7 +3,7 @@
 
 |NAME|PRICE|NOTES|LINK|
 |---|---|---|---|
-|Painted terrain hexes|15|Best looking ones, zoomed out view, heaps of sets (medieval-fantasy is a must have)|https://assetstore.unity.com/packages/2d/environments/painted-2d-terrain-hexes-basic-set-52258|
+|~~Painted terrain hexes~~|~~15~~|~~Best looking ones, zoomed out view, heaps of sets (medieval-fantasy is a must have)~~|~~https://assetstore.unity.com/packages/2d/environments/painted-2d-terrain-hexes-basic-set-52258~~|
 |2d Hexagonal Starter pack|20|Quite zoomed. Good for battle|https://maxheyderart-store.itch.io/2d-hexagonal-tile-starter-pack|
 |Fantasy hex tiles and decorations|35|Don't starve style|https://assetstore.unity.com/packages/2d/textures-materials/fantasy-hex-tiles-decorations-133881|
 |Map tiles|25|Hex good set, zoomed out|https://assetstore.unity.com/packages/2d/environments/map-tiles-148004|
