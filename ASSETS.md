@@ -33,7 +33,7 @@
 
 |NAME|PRICE|NOTES|LINK|
 |---|---|---|---|
-|RPG cursors|Free|-|https://assetstore.unity.com/packages/2d/textures-materials/basic-rpg-cursors-139404|
+|~~RPG cursors~~|~~Free~~|~~-~~|~~https://assetstore.unity.com/packages/2d/textures-materials/basic-rpg-cursors-139404~~|
 |Map parchment assets|5|-|https://assetstore.unity.com/packages/2d/environments/game-level-map-parchment-assets-32791|
 |Fire animation|Free|-|https://kvsr.itch.io/pixel-fire-set|
 |World map|5|-|https://assetstore.unity.com/packages/2d/textures-materials/world-map-high-quality-hand-drawn-100561|
