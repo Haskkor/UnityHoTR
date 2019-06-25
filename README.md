@@ -13,10 +13,9 @@ Player can use custom markers on the map
 
 * (Can zoom in to see a region including POIs and an avatar)
 * (Have a path to walk in to a next POI)
-* Display an hex tiles map
+* ~~Display an hex tiles map~~
 * ~~Reaching the boundaries of the screen with mouse moves the camera~~
-* Mouse3 click and drag moves the camera
-* Add smooth deceleration to camera movement
+* ~~Mouse3 click and drag moves the camera~~
 * Display an avatar on the map and make it move by sliding onto the clicked slide
 * Implement a fog of war on non visited tiles
 * Start a dialogue with an NPC
@@ -25,10 +24,8 @@ Player can use custom markers on the map
 * Having a choice to make that would lead to 2 different fights
 * Having different outcomes based on the result of the fight
 
+### Nice to have
 
-
-
-
-
-
-
+* Add smooth deceleration to camera movement
+* Mouse boundaries
+* Background for the map
