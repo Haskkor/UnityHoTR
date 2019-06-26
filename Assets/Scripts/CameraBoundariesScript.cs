@@ -25,7 +25,7 @@ public class CameraBoundariesScript : MonoBehaviour
         if (_isCameraNull) return;
         var transformCamera = _camera.transform;
         if (Input.GetMouseButton(2)) DragCamera(transformCamera);
-        else BoundariesCamera(transformCamera);
+//        else BoundariesCamera(transformCamera);
     }
 
     private void DragCamera(Transform transformCamera)

@@ -2,64 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cbda8b6-1ad0-4414-8f2d-5652647337e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Palettes/HexesPalette.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Palettes/HexesPalette.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass04.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass05.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass05.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass06.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass06.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass07.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass07.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass08.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/grass08.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/outcrop04.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/rocks04.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeA04.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeB04.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC02.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC02.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC03.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC03.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC04.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Decor/treeC04.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexForestPineSnowCovered00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexForestPineSnowCovered00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexMountainSnow00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexMountainSnow00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexPlainsColdSnowTransitionPond00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexPlainsColdSnowTransitionPond00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexSnowField00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Cold Terrain/hexSnowField00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertRedDirt00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertRedDirt00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertRedForest00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertRedForest00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertRedMountains00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertRedMountains00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertYellowCactiForest00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertYellowCactiForest00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertYellowHills00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertYellowHills00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertYellowMesaLarge00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Desert Terrain/hexDesertYellowMesaLarge00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexDesertDunesOasis00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexDesertDunesOasis00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexDirtVillage00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexDirtVillage00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexForestBroadleafForester00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexForestBroadleafForester00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexHillsMine01.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexHillsMine01.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexMountainCastle00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexMountainCastle00.png.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexPlainsFarm00.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Terrain Hexes/Samples/Medieval-Fantasy Locations/hexPlainsFarm00.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/68b0e5-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/68b0e5-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/bfbf15-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/bfbf15-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -75,8 +28,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <first_editor relative-caret-position="600">
+                <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
               </first_editor>
               <second_editor />
             </state>
@@ -110,11 +63,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CursorScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-210">
-              <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1561359895372" expanded="true" signature="61:344" ph="{...}" />
-                <marker date="1561359895372" expanded="true" signature="243:342" ph="{...}" />
+                <marker date="1561532760534" expanded="true" signature="61:344" ph="{...}" />
+                <marker date="1561532760534" expanded="true" signature="243:342" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,15 +76,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="420">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding>
-                <marker date="1561448809041" expanded="true" signature="6:54" ph="..." />
-                <marker date="1561448809041" expanded="true" signature="107:1646" ph="{...}" />
-                <marker date="1561448809041" expanded="true" signature="356:516" ph="{...}" />
-                <marker date="1561448809041" expanded="true" signature="543:753" ph="{...}" />
-                <marker date="1561448809041" expanded="true" signature="809:1004" ph="{...}" />
-                <marker date="1561448809041" expanded="true" signature="1066:1644" ph="{...}" />
+                <marker date="1561532712236" expanded="true" signature="6:54" ph="..." />
+                <marker date="1561532712236" expanded="true" signature="107:1648" ph="{...}" />
+                <marker date="1561532712236" expanded="true" signature="356:516" ph="{...}" />
+                <marker date="1561532712236" expanded="true" signature="543:755" ph="{...}" />
+                <marker date="1561532712236" expanded="true" signature="811:1006" ph="{...}" />
+                <marker date="1561532712236" expanded="true" signature="1068:1646" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+              <folding>
+                <marker date="1561534168695" expanded="false" signature="6:78" ph="..." />
+                <marker date="1561534168695" expanded="true" signature="129:568" ph="{...}" />
+                <marker date="1561534168695" expanded="true" signature="224:282" ph="{...}" />
+                <marker date="1561534168695" expanded="true" signature="315:474" ph="{...}" />
+                <marker date="1561534168695" expanded="true" signature="506:566" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -143,6 +112,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CursorScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.aspx" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" root0="FORCE_HIGHLIGHTING" />
@@ -153,9 +123,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/STORY.md" />
         <option value="$PROJECT_DIR$/ASSETS.md" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CursorScript.cs" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CursorScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -173,15 +144,36 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HoTR" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HoTR" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="HoTR" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Assets" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Scripts" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -238,11 +230,12 @@
       <workItem from="1561264047165" duration="740000" />
       <workItem from="1561357471743" duration="3889000" />
       <workItem from="1561447510010" duration="1927000" />
+      <workItem from="1561529726576" duration="4044000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11084000" />
+    <option name="totallyTimeSpent" value="15128000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -255,9 +248,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26074973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2629548" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -332,26 +324,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CursorScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-210">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1561359895372" expanded="true" signature="61:344" ph="{...}" />
-            <marker date="1561359895372" expanded="true" signature="243:342" ph="{...}" />
+            <marker date="1561532760534" expanded="true" signature="61:344" ph="{...}" />
+            <marker date="1561532760534" expanded="true" signature="243:342" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="420">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding>
-            <marker date="1561448809041" expanded="true" signature="6:54" ph="..." />
-            <marker date="1561448809041" expanded="true" signature="107:1646" ph="{...}" />
-            <marker date="1561448809041" expanded="true" signature="356:516" ph="{...}" />
-            <marker date="1561448809041" expanded="true" signature="543:753" ph="{...}" />
-            <marker date="1561448809041" expanded="true" signature="809:1004" ph="{...}" />
-            <marker date="1561448809041" expanded="true" signature="1066:1644" ph="{...}" />
+            <marker date="1561532712236" expanded="true" signature="6:54" ph="..." />
+            <marker date="1561532712236" expanded="true" signature="107:1648" ph="{...}" />
+            <marker date="1561532712236" expanded="true" signature="356:516" ph="{...}" />
+            <marker date="1561532712236" expanded="true" signature="543:755" ph="{...}" />
+            <marker date="1561532712236" expanded="true" signature="811:1006" ph="{...}" />
+            <marker date="1561532712236" expanded="true" signature="1068:1646" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding>
+            <marker date="1561534168695" expanded="false" signature="6:78" ph="..." />
+            <marker date="1561534168695" expanded="true" signature="129:568" ph="{...}" />
+            <marker date="1561534168695" expanded="true" signature="224:282" ph="{...}" />
+            <marker date="1561534168695" expanded="true" signature="315:474" ph="{...}" />
+            <marker date="1561534168695" expanded="true" signature="506:566" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -359,8 +365,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <first_editor relative-caret-position="600">
+            <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
           </first_editor>
           <second_editor />
         </state>
