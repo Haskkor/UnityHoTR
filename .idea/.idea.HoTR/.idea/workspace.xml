@@ -2,17 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cbda8b6-1ad0-4414-8f2d-5652647337e5" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Palettes/HexesPalette.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Palettes/HexesPalette.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/68b0e5-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/68b0e5-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/bfbf15-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/bfbf15-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/Library/expandedItems" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -24,12 +22,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="600">
-                <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
+              <first_editor relative-caret-position="585">
+                <caret line="40" selection-start-line="40" selection-end-line="40" />
               </first_editor>
               <second_editor />
             </state>
@@ -63,7 +61,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CursorScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-180">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <marker date="1561532760534" expanded="true" signature="61:344" ph="{...}" />
@@ -76,31 +74,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
               <folding>
-                <marker date="1561532712236" expanded="true" signature="6:54" ph="..." />
-                <marker date="1561532712236" expanded="true" signature="107:1648" ph="{...}" />
-                <marker date="1561532712236" expanded="true" signature="356:516" ph="{...}" />
-                <marker date="1561532712236" expanded="true" signature="543:755" ph="{...}" />
-                <marker date="1561532712236" expanded="true" signature="811:1006" ph="{...}" />
-                <marker date="1561532712236" expanded="true" signature="1068:1646" ph="{...}" />
+                <marker date="1561619948363" expanded="true" signature="71:1612" ph="{...}" />
+                <marker date="1561619948363" expanded="true" signature="320:480" ph="{...}" />
+                <marker date="1561619948363" expanded="true" signature="507:719" ph="{...}" />
+                <marker date="1561619948363" expanded="true" signature="775:970" ph="{...}" />
+                <marker date="1561619948363" expanded="true" signature="1032:1610" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            <state relative-caret-position="570">
+              <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
               <folding>
-                <marker date="1561534168695" expanded="false" signature="6:78" ph="..." />
-                <marker date="1561534168695" expanded="true" signature="129:568" ph="{...}" />
-                <marker date="1561534168695" expanded="true" signature="224:282" ph="{...}" />
-                <marker date="1561534168695" expanded="true" signature="315:474" ph="{...}" />
-                <marker date="1561534168695" expanded="true" signature="506:566" ph="{...}" />
+                <marker date="1561622714747" expanded="true" signature="6:60" ph="..." />
+                <marker date="1561622714747" expanded="true" signature="111:1357" ph="{...}" />
+                <marker date="1561622714747" expanded="true" signature="445:634" ph="{...}" />
+                <marker date="1561622714747" expanded="true" signature="661:851" ph="{...}" />
+                <marker date="1561622714747" expanded="true" signature="883:1254" ph="{...}" />
+                <marker date="1561622714747" expanded="true" signature="1061:1197" ph="{...}" />
+                <marker date="1561622714747" expanded="true" signature="1286:1355" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -123,10 +122,10 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/STORY.md" />
         <option value="$PROJECT_DIR$/ASSETS.md" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CursorScript.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" />
       </list>
     </option>
   </component>
@@ -141,9 +140,14 @@
   </component>
   <component name="ProjectView">
     <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <autoscrollToSource FileSystemExplorer="true" />
+      <autoscrollFromSource FileSystemExplorer="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
@@ -169,9 +173,6 @@
           </expand>
           <select />
         </subPane>
-      </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
       </pane>
       <pane id="AssemblyExplorer" />
     </panes>
@@ -231,11 +232,12 @@
       <workItem from="1561357471743" duration="3889000" />
       <workItem from="1561447510010" duration="1927000" />
       <workItem from="1561529726576" duration="4044000" />
+      <workItem from="1561616251025" duration="5833000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15128000" />
+    <option name="totallyTimeSpent" value="20961000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -248,8 +250,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2629548" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26571113" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +265,7 @@
       <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Performance Profiler" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32924336" />
       <window_info anchor="bottom" id="Unity" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Unit Tests" order="13" />
@@ -281,6 +284,16 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -324,7 +337,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CursorScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
+        <state relative-caret-position="-180">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <marker date="1561532760534" expanded="true" signature="61:344" ph="{...}" />
@@ -333,45 +346,46 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="585">
+            <caret line="40" selection-start-line="40" selection-end-line="40" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="135">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
           <folding>
-            <marker date="1561532712236" expanded="true" signature="6:54" ph="..." />
-            <marker date="1561532712236" expanded="true" signature="107:1648" ph="{...}" />
-            <marker date="1561532712236" expanded="true" signature="356:516" ph="{...}" />
-            <marker date="1561532712236" expanded="true" signature="543:755" ph="{...}" />
-            <marker date="1561532712236" expanded="true" signature="811:1006" ph="{...}" />
-            <marker date="1561532712236" expanded="true" signature="1068:1646" ph="{...}" />
+            <marker date="1561619948363" expanded="true" signature="71:1612" ph="{...}" />
+            <marker date="1561619948363" expanded="true" signature="320:480" ph="{...}" />
+            <marker date="1561619948363" expanded="true" signature="507:719" ph="{...}" />
+            <marker date="1561619948363" expanded="true" signature="775:970" ph="{...}" />
+            <marker date="1561619948363" expanded="true" signature="1032:1610" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="570">
+          <caret line="38" column="47" selection-start-line="38" selection-start-column="47" selection-end-line="38" selection-end-column="47" />
           <folding>
-            <marker date="1561534168695" expanded="false" signature="6:78" ph="..." />
-            <marker date="1561534168695" expanded="true" signature="129:568" ph="{...}" />
-            <marker date="1561534168695" expanded="true" signature="224:282" ph="{...}" />
-            <marker date="1561534168695" expanded="true" signature="315:474" ph="{...}" />
-            <marker date="1561534168695" expanded="true" signature="506:566" ph="{...}" />
+            <marker date="1561622714747" expanded="true" signature="6:60" ph="..." />
+            <marker date="1561622714747" expanded="true" signature="111:1357" ph="{...}" />
+            <marker date="1561622714747" expanded="true" signature="445:634" ph="{...}" />
+            <marker date="1561622714747" expanded="true" signature="661:851" ph="{...}" />
+            <marker date="1561622714747" expanded="true" signature="883:1254" ph="{...}" />
+            <marker date="1561622714747" expanded="true" signature="1061:1197" ph="{...}" />
+            <marker date="1561622714747" expanded="true" signature="1286:1355" ph="{...}" />
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="600">
-            <caret line="40" column="47" selection-start-line="40" selection-start-column="47" selection-end-line="40" selection-end-column="47" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

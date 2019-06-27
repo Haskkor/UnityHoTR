@@ -1,27 +1,46 @@
-﻿using System.Collections;
-using System.Collections.Generic;
+﻿using System;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class TilesHighlightScript : MonoBehaviour
 {
+    public Color color;
+    private Camera _camera;
+    private bool _isCameraNotNull;
+    private Vector3Int _posMouseOnGrid = new Vector3Int(0, 0, 0);
+    private Ray _ray;
+    private Vector3Int _savePosMouseOnGrid = new Vector3Int(0, 0, 0);
     private Color _startColor;
-    private Renderer _renderer;
-    
+    private Tilemap _tileMap;
+
     private void Start()
     {
-        _renderer = GetComponent<Renderer>();
+        _camera = Camera.main;
+        _isCameraNotNull = _camera != null;
+        _tileMap = GetComponent<Tilemap>();
+        _startColor = _tileMap.GetColor(_posMouseOnGrid);
     }
 
-    private void OnMouseEnter()
+    private void Update()
     {
-        Debug.Log("Test");
-        var material = _renderer.material;
-        _startColor = material.color;
-        material.color = Color.yellow;
+        if (_isCameraNotNull) _ray = _camera.ScreenPointToRay(Input.mousePosition);
+        _posMouseOnGrid = _tileMap.WorldToCell(new Vector3(_ray.origin.x, _ray.origin.y, 0));
+    }
+
+    private void OnMouseOver()
+    {
+        if (!_tileMap.HasTile(_posMouseOnGrid)) return;
+        _tileMap.SetTileFlags(_posMouseOnGrid, TileFlags.None);
+        if (_savePosMouseOnGrid != _posMouseOnGrid)
+        {
+            _tileMap.SetColor(_savePosMouseOnGrid, _startColor);
+            _savePosMouseOnGrid = _posMouseOnGrid;
+        }
+        _tileMap.SetColor(_posMouseOnGrid, color);
     }
 
     private void OnMouseExit()
     {
-        _renderer.material.color = _startColor;
+        _tileMap.SetColor(_posMouseOnGrid, _startColor);
     }
 }
