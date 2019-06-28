@@ -16,8 +16,8 @@ Player can use custom markers on the map
 * ~~Display an hex tiles map~~
 * ~~Reaching the boundaries of the screen with mouse moves the camera~~
 * ~~Mouse3 click and drag moves the camera~~
-* Highlight tiles on hover
-* Zoom unzoom with scroll
+* ~~Highlight tiles on hover~~
+* ~~Zoom unzoom with scroll~~
 * Display an avatar on the map
     * Change cursor to move when tile is adjacent
     * Make it move by sliding onto the clicked slide

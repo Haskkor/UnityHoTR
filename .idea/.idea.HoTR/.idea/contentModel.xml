@@ -11,6 +11,7 @@
           <e p="CameraBoundariesScript.cs" t="Include" />
           <e p="CursorScript.cs" t="Include" />
           <e p="TilesHighlightScript.cs" t="Include" />
+          <e p="ZoomMapScript.cs" t="Include" />
         </e>
         <e p="Terrain Hexes" t="Include">
           <e p="Example Scene" t="Include">

@@ -36,7 +36,7 @@ public class TilesHighlightScript : MonoBehaviour
             _tileMap.SetColor(_savePosMouseOnGrid, _startColor);
             _savePosMouseOnGrid = _posMouseOnGrid;
         }
-        _tileMap.SetColor(_posMouseOnGrid, color);
+        _tileMap.SetColor(_posMouseOnGrid, new Color(color.r, color.g, color.b));
     }
 
     private void OnMouseExit()
