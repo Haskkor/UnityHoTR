@@ -2,7 +2,7 @@
 
 public class CameraBoundariesScript : MonoBehaviour
 {
-    public int margin = 50;
+    public int margin = 100;
     public int speedBoundaries = 10;
     public float speedDrag = 25f;
 
@@ -24,7 +24,7 @@ public class CameraBoundariesScript : MonoBehaviour
         if (_isCameraNull) return;
         var transformCamera = _camera.transform;
         if (Input.GetMouseButton(2)) DragCamera(transformCamera);
-//        else BoundariesCamera(transformCamera);
+        else BoundariesCamera(transformCamera);
     }
 
     private void DragCamera(Transform transformCamera)

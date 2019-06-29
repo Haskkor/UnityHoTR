@@ -18,7 +18,7 @@ Player can use custom markers on the map
 * ~~Mouse3 click and drag moves the camera~~
 * ~~Highlight tiles on hover~~
 * ~~Zoom unzoom with scroll~~
-* Display an avatar on the map
+* ~~Display an avatar on the map~~
     * Change cursor to move when tile is adjacent
     * Make it move by sliding onto the clicked slide
 * Implement a fog of war on non visited tiles
