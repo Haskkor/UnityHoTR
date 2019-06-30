@@ -19,8 +19,10 @@ Player can use custom markers on the map
 * ~~Highlight tiles on hover~~
 * ~~Zoom unzoom with scroll~~
 * ~~Display an avatar on the map~~
+    * ~~Make it move by sliding onto the clicked slide~~
+    * ~~Make default position for character~~
+    * Can't move if already moving
     * Change cursor to move when tile is adjacent
-    * Make it move by sliding onto the clicked slide
 * Implement a fog of war on non visited tiles
 * Start a dialogue with an NPC
 * Choice includes to recruit the NPC

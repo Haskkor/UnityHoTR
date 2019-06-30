@@ -1078,6 +1078,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1294313072}
   - component: {fileID: 1294313071}
+  - component: {fileID: 1294313073}
   m_Layer: 0
   m_Name: MainCharacterFrame
   m_TagString: Untagged
@@ -1141,7 +1142,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1294313070}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -16.6, y: 30.25, z: 0}
+  m_LocalPosition: {x: -16.6, y: 30, z: 0}
   m_LocalScale: {x: 0.15, y: 0.15, z: 1}
   m_Children:
   - {fileID: 108899521}
@@ -1150,6 +1151,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1294313073
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1294313070}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 80bcd5bcf07e01749aaec02902ea4566, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 3
+  startPositionX: -16.6
+  startPositionY: 30
+  tileMap: {fileID: 2065028045}
 --- !u!1 &1638230937
 GameObject:
   m_ObjectHideFlags: 0
