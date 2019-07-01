@@ -27,7 +27,7 @@ public class MainCharacterMoveScript : MonoBehaviour
 
     private void Update()
     {
-        if (_isMainNotNull && Input.GetMouseButtonDown(0))
+        if (_isMainNotNull && Input.GetMouseButtonDown(0) && transform.position == _newTilePosition)
         {
             _newTilePosition = GetNewPosition();
             _newTilePosition.x += GetXOffset();
