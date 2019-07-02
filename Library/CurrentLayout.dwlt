@@ -45,7 +45,7 @@ MonoBehaviour:
     y: 0
     width: 1858
     height: 1037
-  m_MinSize: {x: 950, y: 372}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -301,8 +301,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 76310000
-      m_LastClickedID: 12662
+      m_SelectedIDs: 60310000
+      m_LastClickedID: 12640
       m_ExpandedIDs: 8cfbffff54310000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -363,9 +363,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -15.429263, y: 30.015413, z: -24.591797}
+    m_Target: {x: -14.050603, y: 26.826462, z: -45.472584}
     speed: 2
-    m_Value: {x: -15.429263, y: 30.015413, z: -24.591797}
+    m_Value: {x: -14.126266, y: 26.66396, z: -45.382923}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -398,9 +398,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 13.818758
+    m_Target: 23.779123
     speed: 2
-    m_Value: 13.818758
+    m_Value: 24.899605
   m_Ortho:
     m_Target: 1
     speed: 2

@@ -24,6 +24,8 @@ Player can use custom markers on the map
     * ~~Can't move if already moving~~
     * Change cursor to move when tile is adjacent
 * Implement a fog of war on non visited tiles
+    * Cannot click on fog of war tiles
+    * Moving to a new tile remove FOW on adjacent tiles
 * Start a dialogue with an NPC
 * Choice includes to recruit the NPC
 * Based on the choice, the next fight will be hard or easy
