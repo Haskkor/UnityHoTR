@@ -38,6 +38,10 @@ Player can use custom markers on the map
 * Mouse boundaries
 * Background for the map
 
+### Resources
+
+Hex Map: https://catlikecoding.com/unity/tutorials/hex-map/
+
 ### Maps
 
 https://www.pinterest.nz/pin/396668679649943103/
