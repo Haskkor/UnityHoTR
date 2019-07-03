@@ -10,6 +10,7 @@
         <e p="Scripts" t="Include">
           <e p="CameraBoundariesScript.cs" t="Include" />
           <e p="CursorScript.cs" t="Include" />
+          <e p="FogOfWarScript.cs" t="Include" />
           <e p="MainCharacterMoveScript.cs" t="Include" />
           <e p="TilesHighlightScript.cs" t="Include" />
           <e p="ZoomMapScript.cs" t="Include" />

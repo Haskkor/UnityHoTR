@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3cbda8b6-1ad0-4414-8f2d-5652647337e5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.HoTR/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Library/GridBrush/UnityEditor.GridBrush.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/MainCharacterMoveScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/MainCharacterMoveScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/ScriptAssemblies/BuiltinAssemblies.stamp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/Hierarchy/68b0e5-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/Hierarchy/68b0e5-mainStage.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/StateCache/SceneView/bfbf15-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/Library/StateCache/SceneView/bfbf15-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/Library/assetDatabase3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -16,15 +19,15 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.39530203">
+    <splitter split-orientation="horizontal" split-proportion="0.3180901">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="FIRST">
-                  <first_editor relative-caret-position="405">
-                    <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+                  <first_editor relative-caret-position="360">
+                    <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -79,24 +82,34 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacterMoveScript.cs">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="435">
-                  <caret line="29" column="98" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+                <state relative-caret-position="691">
+                  <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
                   <folding>
-                    <marker date="1561963119824" expanded="true" signature="6:60" ph="..." />
-                    <marker date="1561963119824" expanded="true" signature="114:1607" ph="{...}" />
-                    <marker date="1561963119824" expanded="true" signature="525:704" ph="{...}" />
-                    <marker date="1561963119824" expanded="true" signature="731:1172" ph="{...}" />
-                    <marker date="1561963119824" expanded="true" signature="838:1053" ph="{...}" />
-                    <marker date="1561963119824" expanded="true" signature="1210:1437" ph="{...}" />
-                    <marker date="1561963119824" expanded="true" signature="1469:1605" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="6:79" ph="..." />
+                    <marker date="1562138244423" expanded="true" signature="133:1964" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="588:767" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="794:1529" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="901:1242" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="1318:1410" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="1567:1794" ph="{...}" />
+                    <marker date="1562138244423" expanded="true" signature="1826:1962" ph="{...}" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs.meta">
-              <provider selected="true" editor-type-id="text-editor" />
+            <entry file="file://$PROJECT_DIR$/Assets/Scripts/FogOfWarScript.cs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="135">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
+                  <folding>
+                    <marker date="1562137650988" expanded="true" signature="6:46" ph="..." />
+                    <marker date="1562137650988" expanded="true" signature="91:266" ph="{...}" />
+                    <marker date="1562137650988" expanded="true" signature="175:264" ph="{...}" />
+                  </folding>
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
@@ -114,6 +127,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CursorScript.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.aspx" root0="SKIP_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FogOfWarScript.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -125,6 +139,7 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/ZoomMapScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraBoundariesScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FogOfWarScript.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MainCharacterMoveScript.cs" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
@@ -146,14 +161,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer">
         <subPane>
           <expand>
@@ -175,6 +186,10 @@
           </expand>
           <select />
         </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
       </pane>
     </panes>
   </component>
@@ -239,11 +254,12 @@
       <workItem from="1561850906140" duration="8946000" />
       <workItem from="1561963079112" duration="205000" />
       <workItem from="1562047296496" duration="741000" />
+      <workItem from="1562135543801" duration="3207000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35678000" />
+    <option name="totallyTimeSpent" value="38885000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -256,8 +272,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="54" y="-8" width="1874" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1786108" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1802646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -393,35 +410,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacterMoveScript.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs.meta">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FogOfWarScript.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="98" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
-            <marker date="1561963119824" expanded="true" signature="6:60" ph="..." />
-            <marker date="1561963119824" expanded="true" signature="114:1607" ph="{...}" />
-            <marker date="1561963119824" expanded="true" signature="525:704" ph="{...}" />
-            <marker date="1561963119824" expanded="true" signature="731:1172" ph="{...}" />
-            <marker date="1561963119824" expanded="true" signature="838:1053" ph="{...}" />
-            <marker date="1561963119824" expanded="true" signature="1210:1437" ph="{...}" />
-            <marker date="1561963119824" expanded="true" signature="1469:1605" ph="{...}" />
+            <marker date="1562137650988" expanded="true" signature="6:46" ph="..." />
+            <marker date="1562137650988" expanded="true" signature="91:266" ph="{...}" />
+            <marker date="1562137650988" expanded="true" signature="175:264" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TilesHighlightScript.cs.meta">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainCharacterMoveScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="691">
+          <caret line="58" column="40" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+          <folding>
+            <marker date="1562138244423" expanded="true" signature="6:79" ph="..." />
+            <marker date="1562138244423" expanded="true" signature="133:1964" ph="{...}" />
+            <marker date="1562138244423" expanded="true" signature="588:767" ph="{...}" />
+            <marker date="1562138244423" expanded="true" signature="794:1529" ph="{...}" />
+            <marker date="1562138244423" expanded="true" signature="901:1242" ph="{...}" />
+            <marker date="1562138244423" expanded="true" signature="1318:1410" ph="{...}" />
+            <marker date="1562138244423" expanded="true" signature="1567:1794" ph="{...}" />
+            <marker date="1562138244423" expanded="true" signature="1826:1962" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="405">
-            <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+          <first_editor relative-caret-position="360">
+            <caret line="24" column="39" selection-start-line="24" selection-start-column="39" selection-end-line="24" selection-end-column="39" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

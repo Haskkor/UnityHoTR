@@ -1,6 +1,6 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Tilemaps;
+using Debug = UnityEngine.Debug;
 
 public class MainCharacterMoveScript : MonoBehaviour
 {
@@ -10,6 +10,7 @@ public class MainCharacterMoveScript : MonoBehaviour
     public Tilemap tileMap;
 
     private Camera _camera;
+    private bool _isFogOfWarUpdated = true;
     private bool _isMainNotNull;
     private Vector3 _newTilePosition;
     private Vector3Int _posMouseOnGrid;
@@ -33,6 +34,14 @@ public class MainCharacterMoveScript : MonoBehaviour
             _newTilePosition.x += GetXOffset();
             _newTilePosition.y += YOffset;
             _newTilePosition.z = transform.position.z;
+            _isFogOfWarUpdated = false;
+            Debug.Log(_newTilePosition.x);
+            Debug.Log(_newTilePosition.y);
+        }
+
+        if (transform.position == _newTilePosition && !_isFogOfWarUpdated)
+        {
+            gameObject.SendMessage("RemoveForOfWar", _newTilePosition);
         }
 
         transform.position = Vector3.MoveTowards(transform.position, _newTilePosition, speed * Time.deltaTime);

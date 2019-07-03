@@ -22,6 +22,7 @@ Player can use custom markers on the map
     * ~~Make it move by sliding onto the clicked slide~~
     * ~~Make default position for character~~
     * ~~Can't move if already moving~~
+    * Fix position when blow 0 in y axis
     * Change cursor to move when tile is adjacent
 * Implement a fog of war on non visited tiles
     * Cannot click on fog of war tiles
