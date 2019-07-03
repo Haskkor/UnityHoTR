@@ -50,9 +50,9 @@ TagManager:
   - name: Under
     uniqueID: 2694790333
     locked: 0
-  - name: Characters
-    uniqueID: 2173190043
-    locked: 0
   - name: FogOfWar
     uniqueID: 505979525
+    locked: 0
+  - name: Characters
+    uniqueID: 2173190043
     locked: 0
