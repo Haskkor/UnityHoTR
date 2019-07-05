@@ -41,7 +41,7 @@ public class MainCharacterMoveScript : MonoBehaviour
 
         if (transform.position == _newTilePosition && !_isFogOfWarUpdated)
         {
-            gameObject.SendMessage("RemoveForOfWar", _newTilePosition);
+            gameObject.SendMessage("RemoveFogOfWar", _newTilePosition);
         }
 
         transform.position = Vector3.MoveTowards(transform.position, _newTilePosition, speed * Time.deltaTime);
