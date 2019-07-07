@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Diagnostics;
+using UnityEngine;
 using UnityEngine.Tilemaps;
 using Debug = UnityEngine.Debug;
 
@@ -31,17 +32,16 @@ public class MainCharacterMoveScript : MonoBehaviour
         if (_isMainNotNull && Input.GetMouseButtonDown(0) && transform.position == _newTilePosition)
         {
             _newTilePosition = GetNewPosition();
-            _newTilePosition.x += GetXOffset();
+            if (_posMouseOnGrid.y > 0) _newTilePosition.x += GetXOffset();
             _newTilePosition.y += YOffset;
             _newTilePosition.z = transform.position.z;
             _isFogOfWarUpdated = false;
-            Debug.Log(_newTilePosition.x);
-            Debug.Log(_newTilePosition.y);
         }
 
         if (transform.position == _newTilePosition && !_isFogOfWarUpdated)
         {
-            gameObject.SendMessage("RemoveFogOfWar", _newTilePosition);
+            gameObject.SendMessage("RemoveFogOfWar", _posMouseOnGrid);
+            _isFogOfWarUpdated = true;
         }
 
         transform.position = Vector3.MoveTowards(transform.position, _newTilePosition, speed * Time.deltaTime);
@@ -56,7 +56,7 @@ public class MainCharacterMoveScript : MonoBehaviour
 
     private float GetXOffset()
     {
-        var isRightOffset = _posMouseOnGrid.y % 2 == 0;
+        var isRightOffset = _posMouseOnGrid.y % 2 == 0 || _posMouseOnGrid.y % 2 == -0;
         if (isRightOffset) return -XOffset;
         return XOffset;
     }
