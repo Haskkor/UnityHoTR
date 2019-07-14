@@ -7791,6 +7791,7 @@ MonoBehaviour:
   speed: 3
   startPositionX: 41.38
   startPositionY: 50.85
+  fogOfWarMap: {fileID: 263658953}
   tileMap: {fileID: 2065028045}
 --- !u!114 &1294313074
 MonoBehaviour:
@@ -7804,7 +7805,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 234b3ac03d706a849ad35fa8bc2a6167, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fogOfWarMap: {fileID: 263658953}
 --- !u!1 &1638230937
 GameObject:
   m_ObjectHideFlags: 0

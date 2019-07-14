@@ -4,11 +4,9 @@ using UnityEngine.Tilemaps;
 
 public class FogOfWarScript : MonoBehaviour
 {
-    public Tilemap fogOfWarMap;
-
-    public void RemoveFogOfWar(Vector3Int position)
+    public void RemoveFogOfWar(Tilemap fogOfWarMap, Vector3Int position)
     {
-        var neighbors = getNeighbors(position);
+        var neighbors = GetNeighbors(position);
         foreach (var row in neighbors)
         {
             foreach (var tile in row)
@@ -18,7 +16,12 @@ public class FogOfWarScript : MonoBehaviour
         }
     }
 
-    private IEnumerable<Vector3Int[]> getNeighbors(Vector3Int position)
+    public bool HasFogOfWar(Tilemap fogOfWarMap, Vector3Int position)
+    {
+        return fogOfWarMap.HasTile(position);
+    }
+
+    private static IEnumerable<Vector3Int[]> GetNeighbors(Vector3Int position)
     {
         var isEven = position.y % 2 == 0;
         Vector3Int[] row1 =
