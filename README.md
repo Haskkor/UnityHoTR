@@ -23,7 +23,7 @@ Player can use custom markers on the map
     * ~~Can't move if already moving~~
     * ~~Fix position when blow 0 in y axis~~
     * Change cursor to move when tile is adjacent
-* Implement a fog of war on non visited tiles
+* ~~Implement a fog of war on non visited tiles~~
     * ~~Cannot click on fog of war tiles~~
     * ~~Moving to a new tile remove FOW on adjacent tiles~~
 * Move the character
