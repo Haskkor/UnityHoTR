@@ -50,3 +50,9 @@ https://www.pinterest.nz/pin/396668679649943103/
 https://www.pinterest.nz/pin/249879479308444888/
 https://3.bp.blogspot.com/-NJYlCB698sA/WF0mdIcMkFI/AAAAAAAAFnA/PEHviQhhp_0PvhF4HIdE9nUnD46qFiOfgCLcB/s1600/metile%2Blinland.png
 https://www.pinterest.nz/pin/528117493804168393/
+
+### Vs BS3
+* No resource management
+* More characters to create points based fight
+* Cards to change the game instead of extra points
+* Player free to take the path he wants to take
